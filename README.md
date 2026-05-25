@@ -100,9 +100,3 @@ streamlit run streamlit_app.py
 ```
 
 The frontend will be active at [http://localhost:8501](http://localhost:8501).
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. Feel free to use and distribute it as needed!
